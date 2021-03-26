@@ -1,0 +1,11 @@
+{
+  "name": "martian-robots",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alok-singh/martian-robots.git",
+  "author": "Alok Singh <alok_singh@astro.com.my> <alok_singh@astro.com.my>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./src/index.js ./data/input.txt"
+  }
+}
