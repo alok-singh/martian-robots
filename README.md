@@ -12,8 +12,8 @@
 
 ## How to run the project
 ### Just run `yarn test` on the project folder on Terminal.
-- This command will execute the src/index.js file which is taking Input from a text file which is saved in this path ./data/input.txt
-- To test for different input one has to change the content on input.txt file.
+- This command will execute the `src/index.js` file which is taking Input from a text file which is saved in this path `./data/input.txt`
+- To test for different input one has to change the content on `input.txt` file.
 
 ## About the input file
 - The first line of input is the upper-right coordinates of the rectangular world.
@@ -22,4 +22,4 @@
 - A robot instruction is a string of the letters "L", "R", and "F" on one line.
 
 ## Sample input can be seen in the following file
-- ./src/data/input.txt
+- `./src/data/input.txt`
