@@ -8,7 +8,7 @@
   - Turn right (R)
   - Move forward (F).
 - Robots will fall from the grid land if the cross the given x or y coordinate.
-- If a robot falls from (x, y) while moving forward, before getting destroyed it sends this information to rest of the robots which makes them ignore the same instruction on when they are on (x, y) coordinate.
+- If a robot falls from (x, y) while moving forward, before getting destroyed it sends this information to rest of the robots which makes them ignore the same instruction when they are on (x, y) coordinate.
 
 ## How to run the project
 ### Just run `yarn test` on the project folder on Terminal.
